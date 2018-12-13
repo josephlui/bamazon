@@ -20,9 +20,9 @@ In order to use the application, you will need MySql installed locally or remote
 3)  Run the following command to display all the product and inventory in the database:
     node bamazonCustomer <br/>
     You will then be presented with a command prompt to make purchases based on the products in the inventory.
-    <img src="images/cust1.png" height="500" alt="Screenshot"/>
+    <img src="images/cust1.png" height="500" alt="Screenshot"/><br/>
     If you try to purchase a product with quantity more than what is available in the database, the system rejects the purchase. <br/>
-    <img src="images/cust2.png" height="500" alt="Screenshot"/>
+    <img src="images/cust2.png" height="500" alt="Screenshot"/><br/>
     Once your purchase has been accepted, the system displays the cost of the purchase.
     <img src="images/cust3.png" height="500" alt="Screenshot"/>
 
